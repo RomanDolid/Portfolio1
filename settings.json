@@ -1,0 +1,138 @@
+{
+  "name": "P VUM Vumerity IVA 2021.1 DE DEU",
+  "id": "6a290ffe-9388-4229-b94c-cd7c0804ef99",
+  "localization": {
+    "current": "deu",
+    "original": "",
+    "langs": ["deu"],
+    "country": "Germany"
+  },
+  "clms": {
+    "irep": {
+      "irepDisplayOrder": false,
+      "customSwipe": true,
+      "swipeSensitivity": 300,
+      "PRI": "P",
+      "CC": "DE",
+      "LANG": "DEU",
+      "PCD": "VUM",
+      "BUC": "MS",
+      "FUNC": "COMM",
+      "CN": "",
+      "SlugName": "Vumerity_2021",
+      "FranchiseSlugName": "",
+      "FranchiseSlideName": "",
+      "assetFileNameTemplate": "{settings.clms.irep.BUC}-{settings.clms.irep.FUNC}-{settings.clms.irep.CC}-{structure.slide.id}-{settings.clms.irep.LANG}",
+      "sharedResourceName": "{settings.clms.irep.BUC}-{settings.clms.irep.FUNC}-{settings.clms.irep.CC}-{settings.id}-Shared_resources-{settings.clms.irep.LANG}",
+      "vault": {
+        "Product": "00P000000004X05",
+        "Country": "germany",
+        "Directory": "0DI000000000206",
+        "Region": "INT",
+        "Language": "German",
+        "BIIBUser": "Sales",
+        "StartDate": "2020-01-01",
+        "EndDate": "2024-01-01",
+        "DetailGroup": "",
+        "iOSResolution": "Default For Device",
+        "slideType": "IVA Slide",
+        "businessUnit": "SMA",
+        "BasedOnAGlobalRegionalDocument": false,
+        "BasedOnManualLinking": "{'document_number__v': ''}",
+        "BrandPresentations": {
+          "PresentationFranchise": {
+            "PresentationId": "{settings.clms.irep.BUC}_{settings.clms.irep.FUNC}_{settings.clms.irep.CC}_{settings.clms.irep.FranchiseSlugName}_{settings.clms.irep.LANG}",
+            "SlideFileName": "{settings.clms.irep.BUC}-{settings.clms.irep.FUNC}-{settings.clms.irep.CC}-{settings.clms.irep.FranchiseSlideName}-{settings.clms.irep.LANG}"
+          }
+        },
+        "presentation": {
+          "name__v": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {settings.name} {settings.clms.irep.CC} {settings.clms.irep.LANG} {settings.clms.irep.CN}",
+          "title__v": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {settings.name} {settings.clms.irep.CC} {settings.clms.irep.LANG} {settings.clms.irep.CN}",
+          "clm_content__v": "true",
+          "crm_presentation_id__v": "{settings.clms.irep.BUC}_{settings.clms.irep.FUNC}_{settings.clms.irep.CC}_{settings.clms.irep.SlugName}_{settings.clms.irep.LANG}",
+          "external_id__v": "presentation_{settings.clms.irep.SlugName}_{settings.clms.irep.vault.presentation.crm_presentation_id__v}",
+          "product__v": "{settings.clms.irep.vault.Product}",
+          "country__v": "{settings.clms.irep.vault.Country}",
+          "region__c": "{settings.clms.irep.vault.Region}",
+          "language__v": "{settings.clms.irep.vault.Language}",
+          "biib_user__c": "{settings.clms.irep.vault.BIIBUser}",
+          "crm_start_date__v": "{settings.clms.irep.vault.StartDate}",
+          "crm_end_date__v": "{settings.clms.irep.vault.EndDate}",
+          "crm_directory__v": "{settings.clms.irep.vault.Directory}",
+          "detail_group__v": "{settings.clms.irep.vault.DetailGroup}",
+          "document_master_relation": "{settings.clms.irep.vault.BasedOnManualLinking}",
+          "based_on_a_globalregional_document__c": "{settings.clms.irep.vault.BasedOnAGlobalRegionalDocument}"
+        },
+        "keyMessage": {
+          "name__v": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {structure.slide.name} {settings.clms.irep.CC} {settings.clms.irep.LANG}",
+          "title__v": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {structure.slide.title} {settings.clms.irep.CC} {settings.clms.irep.LANG} \n{structure.slide.kmTitle}",
+          "crm_disable_actions__v": "Pinch to Exit, Swipe",
+          "crm_ios_viewer__v": "WKWebView",
+          "clm_content__v": "true",
+          "external_id__v": "slide_{settings.clms.irep.SlugName}_{settings.clms.irep.assetFileNameTemplate}",
+          "product__v": "{settings.clms.irep.vault.Product}",
+          "country__v": "{settings.clms.irep.vault.Country}",
+          "language__v": "{settings.clms.irep.vault.Language}",
+          "biib_user__c": "{settings.clms.irep.vault.BIIBUser}",
+          "crm_start_date__v": "{settings.clms.irep.vault.StartDate}",
+          "crm_end_date__v": "{settings.clms.irep.vault.EndDate}",
+          "ios_resolution__v": "{settings.clms.irep.vault.iOSResolution}",
+          "slide_type__c": "{settings.clms.irep.vault.slideType}",
+          "business_unit__c": "{settings.clms.irep.vault.businessUnit}",
+          "document_master_slide_relation": "{structure.slide.based_on_manual_linking__c}",
+          "based_on_a_globalregional_document__c": "{structure.slide.based_on_a_globalregional_document__c}"
+        },
+        "sharedResource": {
+          "name__v": "{settings.name} shared resource",
+          "title__v": "{settings.name} shared resource",
+          "external_id__v": "shared_{settings.clms.irep.SlugName}_{settings.clms.irep.sharedResourceName}",
+          "ios_resolution__v": "{settings.clms.irep.vault.iOSResolution}"
+        }
+      },
+      "crm": {
+        "presentation": {},
+        "keyMessage": {
+          "Name": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {structure.slide.name} {settings.clms.irep.CC} {settings.clms.irep.LANG}",
+          "Product_vod__c": "",
+          "Description_vod__c": "{settings.clms.irep.PRI} {settings.clms.irep.PCD} {structure.slide.name} {settings.clms.irep.CC} {settings.clms.irep.LANG}"
+        },
+        "sharedResource": {
+          "Name": "{settings.name} shared resource",
+          "Description_vod__c": "{settings.name} shared resource"
+        }
+      }
+    }
+  },
+  "browserslist": ["last 2 ios version", "last 2 android version"],
+  "navigation": {
+    "swipe": {
+      "slide": {
+        "direction": "horizontal",
+        "touchesCount": 1,
+        "enabled": true
+      },
+      "chapter": {
+        "direction": "horizontal",
+        "touchesCount": 1,
+        "enabled": true
+      },
+      "subslide": {
+        "direction": "horizontal",
+        "touchesCount": 1,
+        "enabled": false
+      }
+    }
+  },
+  "theme": "",
+  "screenshoter": {
+    "slideWithCommonLayout": "",
+    "componentsOnEveryChapter": [],
+    "componentsOnEverySlide": []
+  },
+  "kpi": {
+    "storageKey": "{settings.id}_KPI"
+  },
+  "information": {
+    "brand": ""
+  }
+}

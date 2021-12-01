@@ -1,0 +1,141 @@
+{
+  "components": [
+    {
+      "id": "wiz-text",
+      "name": {
+        "deu": "Text"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-text/icon.png"
+    },
+    {
+      "id": "wiz-image",
+      "name": {
+        "deu": "Image"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-image/icon.png"
+    },
+    {
+      "id": "wiz-bg-bubble",
+      "name": {
+        "deu": "Bubble"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-bubble/icon.png"
+    },
+    {
+      "id": "wiz-bg-button",
+      "name": {
+        "deu": "Button"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-button/icon.png"
+    },
+    {
+      "id": "wiz-bg-close-popup-button",
+      "name": {
+        "deu": "Close popup-slide button"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-close-popup-button/icon.png"
+    },
+    {
+      "id": "wiz-bg-container",
+      "name": {
+        "deu": "Container"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-container/icon.png"
+    },
+    {
+      "id": "wiz-bg-line-graph",
+      "name": {
+        "deu": "Line Graph"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-line-graph/icon.png"
+    },
+    {
+      "id": "wiz-bg-navigation-bar",
+      "name": {
+        "deu": "Navigation Bar"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-navigation-bar/icon.png"
+    },
+    {
+      "id": "wiz-bg-popup",
+      "name": {
+        "deu": "Popup"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-popup/icon.png"
+    },
+    {
+      "id": "wiz-bg-ribbon",
+      "name": {
+        "deu": "Ribbon dropdown"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-ribbon/icon.png"
+    },
+    {
+      "id": "wiz-bg-sidebar",
+      "name": {
+        "deu": "Sidebar"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-sidebar/icon.png"
+    },
+    {
+      "id": "wiz-bg-sliding-content",
+      "name": {
+        "deu": "Sliding Content"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-sliding-content/icon.png"
+    },
+    {
+      "id": "wiz-bg-smpc",
+      "name": {
+        "deu": "SMPC Button"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-smpc/icon.png"
+    },
+    {
+      "id": "wiz-bg-study-design",
+      "name": {
+        "deu": "Study Design Button"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-study-design/icon.png"
+    },
+    {
+      "id": "wiz-bg-tab-group",
+      "name": {
+        "deu": "Tab Group"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-tab-group/icon.png"
+    },
+    {
+      "id": "wiz-bg-navigation-arrows",
+      "name": {
+        "deu": "Navigation Arrows"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-navigation-arrows/icon.png"
+    },
+    {
+      "id": "wiz-bg-grid-container",
+      "name": {
+        "deu": "Grid Container"
+      },
+      "model": {},
+      "icon": "node_modules/wiz-bg-grid-container/icon.png"
+    }
+  ],
+  "ignore": []
+}

@@ -1,0 +1,136 @@
+/* Open Sans */
+@font-face {
+  font-weight: 600;
+  font-style: italic;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-SemiBoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 300;
+  font-style: italic;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-LightItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 800;
+  font-style: italic;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-ExtraBoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: italic;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 300;
+  font-style: normal;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 800;
+  font-style: normal;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-Italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 600;
+  font-style: normal;
+  font-family: 'Open Sans';
+  src: url('../media/fonts/OpenSans-SemiBold.woff2') format('woff2');
+}
+
+/* Open Sans Condensed */
+@font-face {
+  font-weight: 300;
+  font-style: normal;
+  font-family: 'Open Sans Condensed';
+  src: url('../media/fonts/OpenSansCondensed-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 300;
+  font-style: italic;
+  font-family: 'Open Sans Condensed';
+  src: url('../media/fonts/OpenSansCondensed-LightItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'Open Sans Condensed';
+  src: url('../media/fonts/OpenSansCondensed-Bold.woff2') format('woff2');
+}
+
+/* Altis */
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'Altis';
+  src: url('../media/fonts/Altis.woff2') format('woff2');
+}
+
+/* AkkuratStd */
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'AkkuratStd';
+  src: url('../media/fonts/AkkuratStd-Bold.woff2') format('woff2');
+}
+
+/* DinPro */
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DinPro-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'DinPro';
+  src: url('../media/fonts/DinPro-Bold.woff2') format('woff2');
+}
+
+/* ITC Franklin Gothic */
+@font-face{
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'ITCFranklinGothic';
+  src: url('../media/fonts/FranklinGothicLTPro-Bk.otf') format('opentype');
+}
+@font-face{
+  font-weight: 500;
+  font-style: normal;
+  font-family: 'ITCFranklinGothic';
+  src: url('../media/fonts/FranklinGothicLTPro-Md.otf') format('opentype');
+}

@@ -1,0 +1,388 @@
+{
+    "slides": {
+        "vumerityHome": {
+            "name": "Front page",
+            "title": "Front page",
+            "template": "slides/vumerityHome/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit - und RW-Daten]"
+        },
+        "vumerityBioequivalence": {
+            "name": "Bioequivalence",
+            "title": "Bioequivalence",
+            "template": "slides/vumerityBioequivalence/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityBioPopup": {
+            "name": "Bioequivalence Popup",
+            "title": "Bioequivalence Popup",
+            "template": "slides/vumerityBioPopup/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEfficacyArr": {
+            "name": "Efficacy",
+            "title": "Efficacy",
+            "template": "slides/vumerityEfficacyArr/index.vue",
+                 "kmTitle": ""
+        },
+        "vumerityEfficacyArrPopup2": {
+            "name": "Efficacy ARR Popup",
+            "title": "Efficacy ARR Popup",
+            "template": "slides/vumerityEfficacyArrPopup2/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyArrAlt": {
+            "name": "Efficacy ARR Alternative",
+            "title": "Efficacy ARR Alternative",
+            "template": "slides/vumerityEfficacyArrAlt/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEfficacyArrPopup1": {
+            "name": "Efficacy ARR Alternative Popup",
+            "title": "Efficacy ARR Alternative Popup",
+            "template": "slides/vumerityEfficacyArrPopup1/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyDiseaseProgression": {
+            "name": "Efficacy Disease progression",
+            "title": "Efficacy Disease progression",
+            "template": "slides/vumerityEfficacyDiseaseProgression/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEfficacyMri": {
+            "name": "Efficacy MRI",
+            "title": "Efficacy MRI",
+            "template": "slides/vumerityEfficacyMri/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyMriPopup2": {
+            "name": "Efficacy MRI Popup",
+            "title": "Efficacy MRI Popup",
+            "template": "slides/vumerityEfficacyMriPopup2/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyMriAlt": {
+            "name": "Efficacy MRI Alternative",
+            "title": "Efficacy MRI Alternative",
+            "template": "slides/vumerityEfficacyMriAlt/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyMriPopup1": {
+            "name": "Efficacy MRI Alternative Popup",
+            "title": "Efficacy MRI Alternative Popup",
+            "template": "slides/vumerityEfficacyMriPopup1/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEfficacyEt": {
+            "name": "Early treatment",
+            "title": "Early treatment",
+            "template": "slides/vumerityEfficacyEt/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityEfficacyEtPopup1": {
+            "name": "Early treatment Popup 1",
+            "title": "Early treatment Popup 1",
+            "template": "slides/vumerityEfficacyEtPopup1/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEfficacyEtPopup2": {
+            "name": "Early treatment Popup 2",
+            "title": "Early treatment Popup 2",
+            "template": "slides/vumerityEfficacyEtPopup2/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityLongTerm": {
+            "name": "Efficacy long-term",
+            "title": "Efficacy long-term",
+            "template": "slides/vumerityLongTerm/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityLongTermPopup1": {
+            "name": "Efficacy long-term Popup 1",
+            "title": "Efficacy long-term Popup 1",
+            "template": "slides/vumerityLongTermPopup1/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityLongTermPopup2": {
+            "name": "Efficacy long-term Popup 2",
+            "title": "Efficacy long-term Popup 2",
+            "template": "slides/vumerityLongTermPopup2/index.vue",
+             "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityLongTermPopup3": {
+            "name": "Efficacy long-term Popup 3",
+            "title": "Efficacy long-term Popup 3",
+            "template": "slides/vumerityLongTermPopup3/index.vue",
+             "kmTitle": ""
+        },
+        "vumerityRealWorld": {
+            "name": "Real-world evidence",
+            "title": "Real-world evidence",
+            "template": "slides/vumerityRealWorld/index.vue",
+            "kmTitle": ""
+        },
+        "vumerityTolerability1": {
+            "name": "Tolerability",
+            "title": "Tolerability",
+            "template": "slides/vumerityTolerability1/index.vue",
+            "kmTitle": ""
+        },
+        "vumerityTolerability1Alt": {
+            "name": "Tolerability EVOLVE MS 2 Alternative 1",
+            "title": "Tolerability EVOLVE MS 2 Alternative 1",
+            "template": "slides/vumerityTolerability1Alt/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityTolerability2": {
+            "name": "Tolerability EVOLVE MS 2 Alternative 2",
+            "title": "Tolerability EVOLVE MS 2 Alternative 2",
+            "template": "slides/vumerityTolerability2/index.vue",
+            "kmTitle": ""
+        },
+        "vumerityTolerability2Alt": {
+            "name": "Tolerability EVOLVE MS 1 Alternative 3",
+            "title": "Tolerability EVOLVE MS 1 Alternative 3",
+            "template": "slides/vumerityTolerability2Alt/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityTolerabilityPopup1": {
+            "name": "Tolerability Popup 1",
+            "title": "Tolerability Popup 1",
+            "template": "slides/vumerityTolerabilityPopup1/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityTolerabilityPopup2": {
+            "name": "Tolerability Popup 2",
+            "title": "Tolerability Popup 2",
+            "template": "slides/vumerityTolerabilityPopup2/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityTolerabilityPopup3": {
+            "name": "Tolerability Popup 3",
+            "title": "Tolerability Popup 3",
+            "template": "slides/vumerityTolerabilityPopup3/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityTolerability3": {
+            "name": "Tolerability EVOLVE MS 1",
+            "title": "Tolerability EVOLVE MS 1",
+            "template": "slides/vumerityTolerability3/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityDosing": {
+            "name": "Dosing and monitoring",
+            "title": "Dosing and monitoring",
+            "template": "slides/vumerityDosing/index.vue",
+            "kmTitle": "[KM - Vumerity: oral, einfacher Therapiestart mit klaren Monitoring-Empfehlungen]"
+        },
+        "vumerityAlc": {
+            "name": "ALC/immunity",
+            "title": "ALC/immunity",
+            "template": "slides/vumerityAlc/index.vue",
+            "kmTitle": "[KM - Vumerity: oral, einfacher Therapiestart mit klaren Monitoring-Empfehlungen]"
+        },
+        "vumerityFamilyPlanning": {
+            "name": "Family planning",
+            "title": "Family planning",
+            "template": "slides/vumerityFamilyPlanning/index.vue",
+            "kmTitle": ""
+        },
+        "vumerityFamilyPlanningPopup": {
+            "name": "Family planning Popup",
+            "title": "Family planning Popup",
+            "template": "slides/vumerityFamilyPlanningPopup/index.vue",
+            "kmTitle": ""
+        },
+        "vumeritySafety": {
+            "name": "Safety",
+            "title": "Safety",
+            "template": "slides/vumeritySafety/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumeritySafetyPopup1": {
+            "name": "Safety profile Popup 1",
+            "title": "Safety profile Popup 1",
+            "template": "slides/vumeritySafetyPopup1/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumeritySafetyPopup2": {
+            "name": "Safety profile Popup 2",
+            "title": "Safety profile Popup 2",
+            "template": "slides/vumeritySafetyPopup2/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumeritySafetyPopup3": {
+            "name": "Safety profile Popup 3",
+            "title": "Safety profile Popup 3",
+            "template": "slides/vumeritySafetyPopup3/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumeritySafetyPopup4": {
+            "name": "Safety profile Popup 4",
+            "title": "Safety profile Popup 4",
+            "template": "slides/vumeritySafetyPopup4/index.vue",
+            "kmTitle": ""
+        },
+        "vumeritySafety2": {
+            "name": "Heritage",
+            "title": "Heritage",
+            "template": "slides/vumeritySafety2/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityStudyDesign1": {
+            "name": "Study Design",
+            "title": "Study Design",
+            "template": "slides/vumerityStudyDesign1/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEvolveMsStudyDesign1": {
+            "name": "Study Design EVOLVE MS 1",
+            "title": "Study Design EVOLVE MS 1",
+            "template": "slides/vumerityEvolveMsStudyDesign1/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEvolveMsStudyDesign2": {
+            "name": "Study Design EVOLVE MS 2",
+            "title": "Study Design EVOLVE MS 2",
+            "template": "slides/vumerityEvolveMsStudyDesign2/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityEndorseStudyDesign": {
+            "name": "Study Design Endorse",
+            "title": "Study Design Endorse",
+            "template": "slides/vumerityEndorseStudyDesign/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityDefineStudyDesign": {
+            "name": "Study Design Define",
+            "title": "Study Design Define",
+            "template": "slides/vumerityDefineStudyDesign/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityConfirmStudyDesign": {
+            "name": "Study Design Confirm",
+            "title": "Study Design Confirm",
+            "template": "slides/vumerityConfirmStudyDesign/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        },
+        "vumerityFamilyPlanning1": {
+            "name": "Family planning",
+            "title": "Family planning",
+            "template": "slides/vumerityFamilyPlanning1/index.vue",
+            "kmTitle": "[KM - Bessere Fexibilität unter VUM: bei Familienplanung, Ernährung, Impfungen]"
+        },
+        "vumerityFamilyPlanning2": {
+            "name": "Family planning 2",
+            "title": "Family planning 2",
+            "template": "slides/vumerityFamilyPlanning2/index.vue",
+            "kmTitle": "[KM - Vumerity: oral, einfacher Therapiestart mit klaren Monitoring-Empfehlungen]"
+        },
+        "vumerityExperienceStudyDesign": {
+            "name": "Experience Study Design",
+            "title": "Experience Study Design",
+            "template": "slides/vumerityExperienceStudyDesign/index.vue",
+            "kmTitle": "[KM - Fumarat der nächsten Generation mit verbesserte GI-Verträglichkeit und positiver Effekt auf Lebensqualität]"
+        },
+        "vumerityRadiologicalResults": {
+            "name": "Radiological Results",
+            "title": "Radiological Results",
+            "template": "slides/vumerityRadiologicalResults/index.vue",
+            "kmTitle": "[KM -  Fumarat der nächsten Generation/Bioäquivalenz DMF&DRF/vergleichbar wirksam: TEC Langzeit- und RW-Daten]"
+        }
+    },
+    "chapters": {
+        "core": {
+            "name": "Core",
+            "content": [
+                "vumerityHome"
+            ]
+        },
+        "bioequivalence": {
+            "name": "Bioequivalence",
+            "content": [
+                "vumerityBioequivalence"
+            ]
+        },
+        "efficacy": {
+            "name": "Efficacy",
+            "content": [                
+                "vumerityEfficacyArrAlt",
+                "vumerityEfficacyDiseaseProgression",
+                "vumerityRadiologicalResults",
+                "vumerityLongTerm"
+            ]
+        },
+        "tolerability": {
+            "name": "Tolerability",
+            "content": [
+                "vumerityTolerability1Alt",
+                "vumerityTolerability2Alt",
+                "vumerityTolerability3"             
+            ]
+        },
+        "dosing": {
+            "name": "Dosing and monitoring",
+            "content": [
+                "vumerityDosing"
+            ]
+        },
+        "AlcImmunity": {
+            "name": "ALC/immunity",
+            "content": [
+                "vumerityAlc"
+            ]
+        },
+        "familyPlanning": {
+            "name": "Family planning",
+            "content": [
+                "vumerityFamilyPlanning1",
+                "vumerityFamilyPlanning2"
+            ]
+        },
+        "safety": {
+            "name": "Safety",
+            "content": [
+                "vumeritySafety",
+                "vumeritySafety2"
+            ]
+        },
+        "popups": {
+            "name": "Slide popups",
+            "content": [
+                "vumerityBioPopup",
+                "vumerityEfficacyMriPopup1",
+                "vumerityEfficacyEtPopup2",
+                "vumerityEfficacyEtPopup1",
+                "vumerityLongTermPopup1",
+                "vumerityLongTermPopup2",
+                "vumerityTolerabilityPopup1",
+                "vumerityTolerabilityPopup2",
+                "vumerityTolerabilityPopup3",
+                "vumeritySafetyPopup1",
+                "vumeritySafetyPopup2",
+                "vumeritySafetyPopup3"
+            ]
+        },
+        "studyDesign": {
+            "name": "Study designs",
+            "content": [
+                "vumerityStudyDesign1",
+                "vumerityEvolveMsStudyDesign1",
+                "vumerityEvolveMsStudyDesign2",
+                "vumerityExperienceStudyDesign",
+                "vumerityDefineStudyDesign",
+                "vumerityConfirmStudyDesign",
+                "vumerityEndorseStudyDesign"
+            ]
+        }
+        },
+    "storyboard": [
+        "core",
+        "bioequivalence",
+        "efficacy",
+        "tolerability",
+        "dosing",
+        "AlcImmunity",
+        "familyPlanning",
+        "safety"
+    ]
+}

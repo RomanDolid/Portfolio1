@@ -1,0 +1,97 @@
+$assetPath : "~/.";
+
+/* DinPro */
+@font-face {
+    font-family: DinPro;
+    src: url('#{$assetPath}/DINPro.woff') format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinPro;
+    src: url("#{$assetPath}/DINPro-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProMedium;
+    src: url("#{$assetPath}/DINPro-Medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProMedium;
+    src: url("#{$assetPath}/DINPro-MediumItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedRegular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedBoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensed;
+    src: url("#{$assetPath}/DINPro-CondensedBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: DinProCondensedMedium;
+    src: url("#{$assetPath}/DINPro-CondensedMediumItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: DinProCondensedMedium;
+    src: url("#{$assetPath}/DINPro-CondensedMedium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+} 
+
+:export {
+    DinProLight: DinProLight;
+    DinPro: DinPro;
+    DinProMedium: DinProMedium;
+    DinProBlack: DinProBlack;
+    DinProCondensedLight: DinProCondensedLight;
+    DinProCondensed: DinProCondensed;
+    DinProCondensedMedium: DinProCondensedMedium;
+    DinProCondensedBlack: DinProCondensedBlack;
+}

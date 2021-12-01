@@ -1,0 +1,60 @@
+{
+  "content": {
+    "type": "edetailer",
+    "subtype": ""
+  },
+  "screenshoter": {
+    "slideWithCommonLayout": ""
+  },
+  "path": {
+    "bundle": "build/dev/app.js",
+    "blocks": "common/blocks-library",
+    "blocksFilename": "blocks.json",
+    "blocksManifest": "common/blocks-library/blocks.json",
+    "modulesFilename": "modules.json",
+    "modulesManifest": "common/blocks-library/modules.json",
+    "localBlocks": "common/blocks",
+    "rootComponent": "App.vue",
+    "localComponents": "common/components",
+    "componentsFilename": "components.json",
+    "slides": "slides",
+    "themes": "themes",
+    "themePaths": {
+      "variables": "styles/variables.scss",
+      "main": "theme.scss"
+    },
+    "themesManifest": "themes.json",
+    "settings": "settings.json",
+    "icon": "icon.png",
+    "icon2x": "icon@2x.png",
+    "preview": "preview.jpg",
+    "slide": {
+      "thumbnail": "media/images/thumb.jpg",
+      "screenshot": "media/images/screenshot.jpg"
+    },
+    "fonts": {
+      "alternative": "Helvetica, sans-serif",
+      "external": [
+        "Arial",
+        {
+          "name": "Custom Font",
+          "fontFamily": "Noto Sans",
+          "alternative": ""
+        }
+      ]
+  },
+    "common": {
+      "i18n": "common/i18n",
+      "references": "common/i18n/references.json",
+      "media": {
+        "images": "common/media/images",
+        "videos": "common/media/videos",
+        "pdfs": "common/media/pdfs",
+        "fonts": "common/media/fonts"
+      }
+    }
+  },
+  "plugins": {
+    "eslint": false
+  }
+}
